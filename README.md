@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning web development .net at "EC Utbildning" in Örebro.
+- 💬 Ask me about design and movies.
+- 📫 How to reach me: Linkedin
+
 <!--
 **steffestruts/steffestruts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
